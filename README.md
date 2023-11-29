@@ -1,4 +1,4 @@
-# Sci Azure Data Scientist Associate Specialization
+# Azure Data Scientist Associate Specialization
 
 This repository contains notebooks and files for from [Scikit-Learn User Guide](https://scikit-learn.org/stable/user_guide.html), for personal learning purposes.
 
